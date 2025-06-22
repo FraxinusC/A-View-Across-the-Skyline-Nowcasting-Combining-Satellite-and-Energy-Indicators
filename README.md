@@ -679,13 +679,16 @@ echo 'INSERT-TEST-COMMAND-HERE'
 
 ## 📜 License
 
-A-view-across-the-skyline-nowcasting-combining-satellite-and-energy-indicators is protected under the [LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.  
+You may use, modify, and distribute this software, provided that any derivative works are also licensed under the GPL-3.0.  
+For full terms, see the [LICENSE](https://github.com/FraxinusC/A-View-Across-the-Skyline-Nowcasting-Combining-Satellite-and-Energy-Indicators/blob/main/LICENSE) file.
+
 
 ---
 
 ## ✨ Acknowledgments
 
-- Credit `contributors`, `inspiration`, `references`, etc.
+- Lilin Wang
 
 <div align="right">
 
